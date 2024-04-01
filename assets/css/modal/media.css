@@ -1,0 +1,44 @@
+/* Bogor Appy - App Landing HTML Template*/
+
+/* @media only screen and (max-width: 950px) {
+  .mobile-footer-container {
+    position: fixed;
+    height: 50px;
+    display: flex;
+    flex-wrap: nowrap;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #ffffff;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .main-footer {
+    margin: 0px 0px 50px 0px;
+    padding: 12px 0px;
+  }
+} */
+
+/* @media only screen and (max-width: 950px) {
+  .fixed-btn {
+    display: none;
+  }
+  .whatsapp-logo-div {
+    display: none;
+  }
+} */
+
+/* @media only screen and (max-width: 600px) {
+  .modal-main-flex {
+    flex-direction: column;
+    margin-top: 69px;
+  }
+  .modal-flex1 {
+    text-align: center;
+    width: 100%;
+  }
+  .modal-flex1 img {
+    margin: 0px 0px -40px 0px;
+  }
+} */
